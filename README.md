@@ -1,39 +1,60 @@
 
-# Hi, I'm Christopher Hernández 👋
+<h1 align="center">Hi, I'm Christopher Hernández 👋</h1>
 
-### Computer Engineering Student | Aspiring Backend Developer
+<h3 align="center">Computer Engineering Student | Backend Developer</h3>
 
-I'm a Computer Engineering student at the National Polytechnic Institute (IPN), currently studying at ESIME Culhuacán.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Java+%7C+Python+%7C+C;SQL+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+projects+and+learning+every+day" />
+</p>
 
-I have a technical background in Programming and enjoy building software projects, web applications, and educational tools.
+---
 
-I'm continuously improving my programming skills and developing projects to strengthen my software engineering knowledge.
+## 👨‍💻 About Me
 
-## 🎓 Education
+I'm a Computer Engineering student at the **National Polytechnic Institute (IPN)**, currently studying at **ESIME Culhuacán**.
 
-- **Computer Engineering** — IPN, ESIME Culhuacán (5th semester)
-- **Programming Technician** — CECyT 9 Juan de Dios Bátiz (Graduated 2023)
+I have a technical background in Programming and enjoy developing software projects, web applications, and educational tools.
 
-## 💻 Technologies & Skills
+- 🎓 Computer Engineering student — IPN.
+- 💻 Programming Technician — CECyT 9 Juan de Dios Bátiz.
+- 🚀 Interested in Backend Development and Software Engineering.
+- 📚 Always learning and building new projects.
 
-- **Programming:** Java, C, Python
-- **Databases:** SQL
-- **Web Development:** HTML, CSS, JavaScript
+## 🛠️ Technologies & Tools
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+**Web Development & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,mysql" />
+</p>
 
 ## 🚀 Featured Projects
 
-- **Food Delivery Platform:** A web project inspired by food delivery applications.
-- **English Learning Application:** An educational application developed in Java.
-- **Migrant Support Website:** A web platform focused on providing resources for migrants.
-- **Sales Management System:** A Python project for recording sales and managing information using JSON.
+| Project | Description | Technology |
+|---|---|---|
+| Food Delivery Platform | Web application inspired by food delivery services | To be added |
+| English Learning App | Educational application for learning English | Java |
+| Migrant Support Website | Website focused on resources for migrants | To be added |
+| Sales Management System | Sales registration and JSON data management | Python |
 
 ## 🎯 Current Goals
 
 - Improve my backend development skills.
-- Build applications with databases and APIs.
-- Strengthen my software development practices.
-- Contribute to real-world projects.
+- Build applications using databases and APIs.
+- Strengthen my software engineering knowledge.
+- Create practical projects and contribute to development teams.
 
-## 📫 Contact
+## 📫 Connect with Me
 
-- GitHub: https://github.com/Christopher1013
+<p>
+  <a href="https://github.com/Christopher1013">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
